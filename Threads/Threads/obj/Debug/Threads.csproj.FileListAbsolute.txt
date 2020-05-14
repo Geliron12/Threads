@@ -1,0 +1,10 @@
+C:\Users\geliron\source\repos\Threads\Threads\bin\Debug\Threads.exe.config
+C:\Users\geliron\source\repos\Threads\Threads\bin\Debug\Threads.exe
+C:\Users\geliron\source\repos\Threads\Threads\bin\Debug\Threads.pdb
+C:\Users\geliron\source\repos\Threads\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+C:\Users\geliron\source\repos\Threads\Threads\obj\Debug\Threads.Form1.resources
+C:\Users\geliron\source\repos\Threads\Threads\obj\Debug\Threads.Properties.Resources.resources
+C:\Users\geliron\source\repos\Threads\Threads\obj\Debug\Threads.csproj.GenerateResource.cache
+C:\Users\geliron\source\repos\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+C:\Users\geliron\source\repos\Threads\Threads\obj\Debug\Threads.exe
+C:\Users\geliron\source\repos\Threads\Threads\obj\Debug\Threads.pdb
